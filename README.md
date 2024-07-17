@@ -9,13 +9,13 @@ Feature Correlation: Insights from the plots helped in understanding the relatio
 
 Models Implemented
 
-Logistic Regression
-Random Forest Classifier
-K Neighbors Classifier
+1. Logistic Regression
+2. Random Forest Classifier
+3. K Neighbors Classifier
 
 Key Features
 
-Python Libraries: Utilized key libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
-Data Preprocessing: Cleaned and prepared the data for model training and evaluation.
-Model Evaluation: Used metrics like accuracy to evaluate and compare model performance.
+1. Python Libraries: Utilized key libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
+2. Data Preprocessing: Cleaned and prepared the data for model training and evaluation.
+3. Model Evaluation: Used metrics like accuracy to evaluate and compare model performance.
 
