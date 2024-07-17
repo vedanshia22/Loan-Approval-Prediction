@@ -4,8 +4,8 @@ This project aims to predict loan approval using a machine learning model develo
 
 Exploratory Data Analysis (EDA)
 
-Boxplots and Heatmaps: Various plots were used to visualize the data and identify correlations between features.
-Feature Correlation: Insights from the plots helped in understanding the relationships among different labels.
+1. Boxplots and Heatmaps: Various plots were used to visualize the data and identify correlations between features.
+2. Feature Correlation: Insights from the plots helped in understanding the relationships among different labels.
 
 Models Implemented
 
